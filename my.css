@@ -1,10 +1,6 @@
 .home{
    background-color: #ffccff;
 }
-note{
-    padding-top: 120px;
-    
-}
 .header, h1{
   padding:30px;
   font-size:50px;
@@ -12,16 +8,20 @@ note{
   font-style: oblique;
   text-align:center;
 }
-.navbar{
-  background-color:#e6e6e6;
+a{
+  background-color: #f2dede;
 }
-div.about-me{
-  diplay: block;
-  padding: 50px 100px 0px 180px;
-  font-size: 16px;
-  color:#000000;
+
+p{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
 }
 .me {
+  
   width:200px;
   height:200px;
   border-style: solid;
